@@ -7,18 +7,34 @@ body
 .menu {
 }
 
-.title {
-    text-align: center;
-}
-
-.list {
+ul
+ol {
     display: table;
     margin: 0 auto;
 }
 
-.list li {
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto; 
+}
+
+li {
     margin: 8px 0;
     background-color: aquamarine;
     padding: 8px;
     font-size: 20px;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+.home-link {
+    display: block;
+    text-align: center;
 }
