@@ -36,5 +36,5 @@ h3 {
 
 .home-link {
     display: block;
-    text-align: center;
+    margin: 0 auto;
 }
